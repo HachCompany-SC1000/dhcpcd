@@ -1,2 +1,0 @@
-# dhcpcd
-dhcp client daemon
